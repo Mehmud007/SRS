@@ -1,0 +1,179 @@
+
+/* ---------------section take  --------------- */
+
+
+section.take   {
+    padding-top: 2rem  !important;
+    padding-bottom: 3rem !important;
+    background-color: #292930;
+    margin-bottom: 2rem;
+}
+
+
+section.take   .Serv {
+    background: #00A7FA;
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+}
+section.take   .Serv1 {
+    justify-content: center;
+    display: flex;
+}
+section.take   .Serv2 {
+    display: inline-grid;
+    justify-content: center;
+}
+section.take   .Serv1 i.fa-solid.fa-gear {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 27px;
+    font-size: 22px;
+    color: white;
+
+}
+
+section.take   .Serv2 h5 span {
+    font-size: 15px;
+    color: #D0D0D0;
+}
+section.take   .Serv2 h5 {
+    font-size: 15px;
+    color: #FEC90C;
+    text-align: center;
+    margin-top: 1rem;
+}
+section.take   .Serv2 h1 {
+    font-size: 30px;
+    color: white;
+    /* width: 620px; */
+    text-align: center;
+}
+
+section.take   .Serv3 {
+    display: flex;
+    align-items: end;
+}
+
+section.take   .Serv3 button.btn1 {
+    width: 174px;
+    height: 62px;
+    background: #FFFFFF;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section.take   .Serv4 {
+    margin-left: auto;
+    background: #00a7fa;
+    height: 14px;
+    width: 14px;
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    align-items: center;
+}
+
+section.take   .Serv4 i.fa-solid.fa-chevron-right {
+    font-size: 8px;
+    color: white;
+    margin: 8px;
+}
+
+section.take   .graphics2 {
+    height: 130px;
+    width: 130px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+    background-color: #3a3a3f;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.take   .graphics2 img {
+    width: 64.26px;
+    height: 76.91px;
+}
+
+section.take   .graphics1 {
+    color: #FFFFFF;
+    width: 337px;
+    height: 448px;
+    background: #424245;
+    border-radius: 20px;
+    padding: 37px;
+}
+
+section.take   .graphics1 p {
+    color: #D0D0D0;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+section.take .graphics {
+    padding-top: 2rem !important;
+}
+
+section.take   .graphics1 h3 {
+    font-size: 25px;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+section.take   .graphics1 button.btn1 {
+    padding: 14px 20px;
+    width: 100%;
+    background-color: #424245;
+    color: #FFDC60;
+    border-radius: 7px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.take   .graphics1 button.btn1:hover {
+    padding: 14px 20px;
+    width: 100%;
+    background-color: #FFDC60;
+    color: #000000;
+}
+
+section.take .Serv8 {
+    /* margin-left: auto; */
+    background: #5956E8;
+    height: 14px;
+    width: 14px;
+    margin: 5px 10px;
+    display: flex;
+    justify-content: center;
+    border-radius: 20px;
+    align-items: center;
+}
+
+section.take   .Serv8 i.fa-solid.fa-chevron-right {
+    font-size: 8px;
+    color: black;
+    margin: 8px;
+}
+
+
+
+
+
+/* -------------------------take1----------------------- */
+
+
+.group25 img{
+    width: 100%;
+}
+
+.group25 img {
+    width: 100%;
+    margin-bottom: 2rem;
+}

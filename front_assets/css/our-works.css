@@ -1,0 +1,48 @@
+/* ----------------our-works-------------- */
+
+section.our.works
+{
+
+
+background-color: #FFFCFC;
+}
+section.our.works .fact0 {
+    display: flex;
+    align-items: center;
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+}
+section.our.works .fact img{
+    width: 100%;
+
+
+}
+
+
+section.our.works .fact1 h4 {
+    color: #0064FA;
+    font-size: 24px;
+}
+
+section.our.works .fact1 h1 {
+    font-size: 40px;
+}
+
+section.our.works .fact1 p {
+    font-size: 18px;
+}
+
+/* ----------------our-works1-------------- */
+section.our.works1 {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+section.our.works1 .fact2 img {
+    width: 282px;
+    margin-top: 12px;
+}
+
+section.our.works1 .fact2 {
+    display: flex;
+    justify-content: center;
+}

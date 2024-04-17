@@ -1,0 +1,170 @@
+/* -----------------contact-------------------- */
+
+.contact .build1{background: #00A7FA;
+width: 87px;
+margin-right: 6px;
+height: 87px;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 37px;
+color: #FFFFFF;
+margin-top: 1rem;
+margin-left: auto;
+margin-right: auto;
+}
+
+.contact .build {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.contact .build2 {
+    margin-top: 1rem;
+}
+
+.contact .build2 h2 {
+    margin-top: 1rem;
+    font-size: 40px;
+}
+
+.contact .build2 h5  {
+    font-size: 15px;
+}
+.contact .build2 h5 span {
+    font-size: 15px;
+    color: #00A7FA;
+}
+
+
+/* -----------------contact1-------------------- */
+
+section.contact1 {
+    margin-top: 3rem!important;
+}
+section.contact1 .phone {
+    /* border: 28px solid #E9F7FF; */
+    width: 100%;
+    height: 270px;
+    padding: 24px;
+    border-radius: 11px;
+    background-color:#E9F7FF ;
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    align-items: center;
+
+}
+
+section.contact1 .phone1 {
+    background: white;
+    width: 99%;
+    padding: 26px;
+    border-radius: 8px;
+}
+.contact1 .phone1 button.btn1.my-2.my-sm-0 {
+    width: 123px;
+    height: 44px;
+    border-radius: 20px;
+    background: #FFDC60;
+    border: #FFDC60;
+    font-size: 20px;
+    font-weight: 500;
+}
+.contact1 button.btn1.my-2.my-sm-0.r {
+    width: 89px;
+}
+
+section.contact1 .phone1 .phone2 {
+    display: flex;
+    align-items: center;
+
+}
+
+section.contact1 .phone2 h3 {
+    font-size: 25px;
+}
+
+section.contact1 .phone2 i {
+    font-size: 25px;
+    margin-right: 11px;
+    color: #5956E8;
+}
+
+section.contact1 .phone1 p {
+    font-size: 18px;
+    margin-left: 30px;
+}
+
+
+/* -----------------section-contact2--------------- */
+
+
+.contact2 .form-group {
+    margin-bottom: 1.5rem;
+}
+
+
+.contact2 .emai {
+    background: #F8FCFF;
+    border-radius: 7px;
+    padding: 66px;
+    margin-top: 3rem !important;
+    margin-bottom: 3rem !important;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+
+}
+
+.contact2 .blogs h1 {
+    font-size: 30px;
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+    color: white;
+
+}
+
+
+.contact2 .form-control {
+    display: block;
+    width: 100%;
+    height: 64px;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.contact2 label {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.contact2 textarea.form-control {
+    width: 100%;
+    height: 300px;
+}
+
+.Sent2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem !important;
+}
+
+.contact2 .Sent2 button.btn1 {
+    width: 158px;
+    height: 54px;
+    background: #292930;
+    border-radius: 7px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}

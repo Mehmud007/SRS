@@ -1,0 +1,280 @@
+
+/* ---------------------section.about------------------------- */
+section.about .welcome  {
+    height: 568px;
+    width: 100%;
+    background-image: url("/front_assets/imgs/rte.png");
+    background-size: 100% 100%;
+}
+section.about {
+    padding-top: 3rem;
+}
+
+section.about .welcome .welcome1 {
+    background: white;
+    width: 658px;
+    position: relative;
+    right: 295px;
+    box-shadow: 0px 0px 5px 0px #00000033;
+    border-radius: 30px 0px 60px 20px;
+    height: 513px;
+    padding: 60px;
+}
+
+
+section.about .welcome .welcome1 h1 {
+    font-size: 50px;
+    color: #4A90F9;
+}
+section.about .welcome .welcome1 h1 span {
+    color: #00587D;
+}
+section.about .welcome .welcome1 p {
+    /* font-family: Lexend; */
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+section.about .welcome .welcome1 h4 {
+    /* font-family: Lexend; */
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+
+/* ---------------------section.about1------------------------- */
+
+section.about1 .lots .lots1 {
+    max-width: 601px;
+    text-align: center;
+}
+
+section.about1 .lots {
+    justify-content: center;
+    display: flex;
+}
+
+section.about1 .lots h1 {
+    /* font-family: Nunito; */
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 65px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+section.about1 .lots p {
+    /* font-family: Nunito; */
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    /* letter-spacing: -0.20000000298023224px; */
+    text-align: center;
+    margin-top: 2rem;
+}
+
+section.about1 .lots2 img {
+    width: 100%;
+    margin-top: 3rem;
+    /* height: 783px; */
+}
+
+
+
+
+/* ---------------------section.about2------------------------- */
+
+section.about2 {
+    margin-top: 4rem;
+}
+
+section.about2 .help h2 {
+    /* font-family: Nunito; */
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    /* letter-spacing: -1.7999999523162842px; */
+    text-align: left;
+
+    max-width: 451px;
+}
+
+
+section.about2 .help1 p.help2{
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 469px;
+}
+
+
+section.about2 .help1 p.help3 {
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    max-width: 469px;
+    margin: 2rem 0px;
+}
+
+
+/* ---------------------section.about3------------------------- */
+
+
+
+section.about3 .team1 img {
+    width: 224px;
+    height: 275px;
+    margin-left: 11px;
+}
+section.about3 .team1 img.rotm1 {
+    position: relative;
+    top: 54px;
+}
+section.about3 {
+    background: #F4F7FA;
+    padding: 6rem 0px;
+}
+
+section.about3 .team2 img {
+    width: 224px;
+    height: 275px;
+    margin-left: 11px;
+}
+section.about3 .team1 {
+    margin-top: 2rem;
+
+}
+section.about3 .team2 {
+    margin-top: 2rem;
+
+}
+
+section.about3 .team2 img.rotm3 {
+    position: relative;
+    top: 54px;
+}
+
+
+section.about3 .help0 {
+    align-items: end;
+}
+
+
+section.about3 .help0 .team3 h1 {
+    /* font-family: Nunito; */
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: -1.7999999523162842px;
+    text-align: left;
+}
+
+
+section.about3 .help0 .team3 p.dom1 {
+    margin-top: 6rem;
+    /* font-family: Nunito; */
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.20000000298023224px;
+    text-align: left;
+}
+
+section.about3 .help0 .team3 p {
+    margin-top: 2rem;
+    /* font-family: Nunito; */
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: -0.20000000298023224px;
+    text-align: left;
+}
+
+
+
+
+
+
+/* ---------------------section.about4------------------------- */
+
+
+
+
+
+
+section.about4 .our .our1 {
+    max-width: 601px;
+    text-align: center;
+}
+
+section.about4 .our {
+    justify-content: center;
+    display: flex;
+}
+
+section.about4 .our h1 {
+    /* font-family: Nunito; */
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 65px;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+section.about4 .our p {
+    /* font-family: Nunito; */
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 32px;
+    /* letter-spacing: -0.20000000298023224px; */
+    text-align: center;
+    margin-top: 1rem;
+}
+
+
+
+section.about4 .out12 img {
+    height: 356px;
+    width: 100%;
+}
+
+section.about4 .out12 h4 {
+    margin-top: 2rem;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 32px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+section.about4 .out12 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+
+}
+section.about4 .out12 p {
+ 
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 29px;
+
+    text-align: left;
+    
+}
+
+
+button.slick-prev.slick-arrow {
+    display: none !important;
+}
+
+
+button.slick-next.slick-arrow {
+    display: none !important;
+}

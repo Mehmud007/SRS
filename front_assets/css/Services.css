@@ -1,0 +1,173 @@
+/* -----------------graph------------------ */
+
+.graph{
+    background-image: url("/front_assets/imgs/Group 2525.png");
+    height: 304px;
+    background-size: 100% 100%;
+    display: grid;
+    justify-content: center;
+}
+
+.graph h1 {
+    font-size: 30px;
+    margin-top: 7rem;
+    font-weight: 700;
+}
+
+
+
+
+/* -------------------services1------------------ */
+.designing1 {
+    background: #00A7FA;
+    width: 75px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 75px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 36px;
+    color: #FFFFFF;
+}
+
+.services1 .designing {
+    text-align: center;
+    margin-top: 2rem!important;
+}
+
+.services1 .designing2 h3{
+font-size: 30px;
+    margin-top:10px!important;
+}
+.services1 .designing2 h5{
+   font-size: 15px;
+    margin-top: 1rem!important;
+}
+
+
+.services1 .Strategic1 {
+    background: #6B77E5;
+    width: 27px;
+    /* margin-left: auto; */
+    margin-left: 12px;
+    height: 27px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+.services1 .Strategic {
+    margin-top: 1rem!important;
+}
+.services1 .Strategic p {
+    font-size: 18px;
+    margin-left: 12px;
+    margin-top: 21px;
+}
+.services1 .Strategic2 h3 {
+    font-size: 30px;
+}
+
+
+.services1 .got {
+    padding-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.services1 .team0 img.team1{
+    width: 400px;
+    height: 400px;
+}
+.services1 .team0 img.team2 {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    left: 88px;
+    bottom: 55px;
+}
+.services1 .team0 img.team3 {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    bottom: 131px;
+}
+.services1 .team0 {
+    display: grid;
+    justify-content: end;
+    margin-top: 1rem!important;
+}
+
+.services1 .fot {
+    margin-top: 2rem;
+}
+
+/* -----------------------services2-------------------- */
+.designing6 img{
+    width: 100%;
+}
+
+.services2 .rtl{
+    margin-top: 3rem!important;
+}
+
+
+.services2 .designing6 h2 {
+    font-size: 30px;
+    margin-bottom: 2rem!important;
+    margin-top: 1rem;
+}
+
+/* ------------------services3-------------------- */
+
+
+.affor0 {
+    margin-top: 3rem!important;
+    padding-top: 3rem!important;
+
+}
+.affor img{
+    width: 100%;
+height: 600px;
+}
+img.affor2 {
+    position: relative;
+    right: 83px;
+    bottom: 119px;
+}
+.services3 .our .our2 {
+    background: #6B77E5;
+    width: 27px;
+    /* margin-left: auto; */
+    margin-left: 12px;
+    height: 27px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+
+.services3 .our h4 {
+    font-size: 30px;
+}
+.services3 .our .our1 {
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.services3 .our .our3 h5 {
+    font-size: 30px;
+    margin-left: 11px;
+}
+
+.services3 .our p {
+    font-size: 18px;
+}
+

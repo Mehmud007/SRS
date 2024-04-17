@@ -1,0 +1,113 @@
+.graph1 {
+    height: 100px;
+}
+
+
+.blogs-d {
+    background-color: #95c3fa36;
+}
+
+
+
+/* ---------------section.blogs-d1------------------- */
+
+section.blogs-d1 .social1 {
+    display: flex;
+    justify-content: space-between;
+    max-width: 495px;
+    align-items: center;
+    margin-top: 4rem;
+}
+
+
+section.blogs-d1 .social h4 {
+    font-size: 35px;
+    max-width: 628px;
+}
+
+section.blogs-d1 .social1 h3 {
+    font-size: 18px;
+    border: 1px solid;
+    padding: 13px 24px;
+    border-radius: 26px;
+}
+
+
+section.blogs-d1 .social1 h5 {
+    font-size: 15px;
+}
+section.blogs-d1 .veniam {
+    margin-top: 3rem;
+}
+
+section.blogs-d1 .veniam1 img {
+    height: 418px;
+    width: 100%;
+    border-radius: 20px;
+}
+
+
+/* section.blogs-d1 .veniam2 {
+    box-shadow: 0px 0px 5px 0px #00000033;
+    background: #ffff;
+    height: 418px;
+    border-radius: 20px;
+
+    /* padding: 66px; 
+} */
+
+section.blogs-d1 .veniam3 {
+    padding: 30px;
+    box-shadow: 0px 0px 5px 0px #00000033;
+    background: #ffff;
+    height: 418px;
+    border-radius: 20px;
+    /* padding: 66px; */
+    width: 100%;
+}
+
+section.blogs-d1 .veniam3 h2 {
+    font-size: 30px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+section.blogs-d1 .veniam3 p {
+    font-size: 18px;
+}
+
+
+/* ----------------------section.blogs-d2------------- */
+
+
+section.blogs-d2 .unknown1 h3 {
+    font-size: 20px;
+    font-weight: 400;
+    text-align: center;
+
+}
+section.blogs-d2 .unknown {
+    justify-content: center;
+    display: flex;
+    margin-top: 4rem;
+}
+section.blogs-d2 .unknown1 {
+    width: 899px;
+    height: 299px;
+    background-color: #FFFFFF;
+    padding: 52px 129px 1px 119px;
+    border-radius: 30px;
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+
+section.blogs-d2 .unknown1 img {
+    height: 39px;
+    width: 65px;
+    margin-bottom: 3rem;
+}
+
+section.blogs-d2 .unknown1 h3 span {
+    font-size: 41px;
+}
